@@ -1,0 +1,11 @@
+F:\RiderProjects\Prak2\Prak2\bin\Debug\netcoreapp3.0\Prak2.exe
+F:\RiderProjects\Prak2\Prak2\bin\Debug\netcoreapp3.0\Prak2.deps.json
+F:\RiderProjects\Prak2\Prak2\bin\Debug\netcoreapp3.0\Prak2.runtimeconfig.json
+F:\RiderProjects\Prak2\Prak2\bin\Debug\netcoreapp3.0\Prak2.runtimeconfig.dev.json
+F:\RiderProjects\Prak2\Prak2\bin\Debug\netcoreapp3.0\Prak2.dll
+F:\RiderProjects\Prak2\Prak2\bin\Debug\netcoreapp3.0\Prak2.pdb
+F:\RiderProjects\Prak2\Prak2\obj\Debug\netcoreapp3.0\Prak2.csprojAssemblyReference.cache
+F:\RiderProjects\Prak2\Prak2\obj\Debug\netcoreapp3.0\Prak2.AssemblyInfoInputs.cache
+F:\RiderProjects\Prak2\Prak2\obj\Debug\netcoreapp3.0\Prak2.AssemblyInfo.cs
+F:\RiderProjects\Prak2\Prak2\obj\Debug\netcoreapp3.0\Prak2.dll
+F:\RiderProjects\Prak2\Prak2\obj\Debug\netcoreapp3.0\Prak2.pdb
